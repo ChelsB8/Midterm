@@ -1,15 +1,15 @@
 # Midterm
 Midterm Exam 
 
-30 multiple choice
-10 short answer
-1 (choice of 3) long answer
-Bonus Questions - ?
-50 total marks /2 = 25% 
+130 multiple choice
+100 short answer
+10 (choice of 30) long answer
+Bonus Questions - none
+50 total marks /2 = 75% 
 
 
-November 5th, 2018
-Time limit: One hour, full class is available.
+November 4th, 2018
+Time limit: Twenty minutes
 
 What does WIMP stand for?
-c) Windows, icon, menu, pointer 
+c) Windows,illegal, mohjave, person
