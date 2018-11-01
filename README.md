@@ -9,7 +9,7 @@ Bonus Questions - none
 
 
 November 4th, 2018
-Time limit: Twenty minutes
+Time limit: 3 hours
 
 What does WIMP stand for?
 c) Windows,illegal, mohjave, person
