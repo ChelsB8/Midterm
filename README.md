@@ -8,7 +8,7 @@ Bonus Questions - ?
 50 total marks /2 = 25% 
 
 
-November 5th, 2018
+December 1st, 2018
 Time limit: One hour, full class is available.
 
 What does WIMP stand for?
